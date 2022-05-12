@@ -1,0 +1,5 @@
+project: jacob-clemente/base64
+target: base64
+
+cmds:
+  - cmd: /base64 @@
